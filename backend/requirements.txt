@@ -1,0 +1,12 @@
+fastapi==0.163.1
+httpx==0.28.1
+numpy==2.4.6
+onnxruntime==1.32.0
+opencv-python-headless==5.0.0.93
+pillow==13.0.0
+pytest==9.2.0
+python-multipart==0.0.33
+rembg==2.0.87
+scipy==1.17.1
+SQLAlchemy==2.1.8
+uvicorn==0.54.0
